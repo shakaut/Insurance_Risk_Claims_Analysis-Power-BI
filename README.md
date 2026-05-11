@@ -1,11 +1,11 @@
-# 🚗 Car Insurance Risk & Claims Analysis
+# Car Insurance Risk & Claims Analysis
 
-## 📌 Project Overview
+## Project Overview
 Developed an interactive insurance analytics dashboard to analyze claim patterns, customer risk factors, and policy trends across demographics, vehicle characteristics, and geographic coverage zones. The dashboard helps identify high-risk segments, optimize premiums, and support data-driven insurance decisions.
 
 ---
 
-# 📊 Key Business Insights
+# Key Business Insights
 
 ### 1. Private Vehicles Generate the Highest Claims
 - Private-use vehicles contributed approximately **$150.4M** in claims compared to **$37.4M** from commercial vehicles.
@@ -42,7 +42,7 @@ Developed an interactive insurance analytics dashboard to analyze claim patterns
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 - Power BI
 - SQL
 - Excel / CSV
@@ -51,7 +51,7 @@ Developed an interactive insurance analytics dashboard to analyze claim patterns
 
 ---
 
-# 📈 Dashboard Features
+# Dashboard Features
 - Interactive KPI cards
 - Claim trend analysis by vehicle year
 - Geographic coverage zone analysis
