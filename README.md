@@ -3,6 +3,10 @@
 ## Project Overview
 Developed an interactive insurance analytics dashboard to analyze claim patterns, customer risk factors, and policy trends across demographics, vehicle characteristics, and geographic coverage zones. The dashboard helps identify high-risk segments, optimize premiums, and support data-driven insurance decisions.
 
+
+### Dashboard Video Preview
+https://drive.google.com/file/d/1xJGYD9E6vlWkCvsIgN2TVSYHuww3kFAu/view?usp=sharing
+
 ---
 
 # Key Business Insights
